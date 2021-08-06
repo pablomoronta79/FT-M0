@@ -23,5 +23,6 @@
   "license": "ISC",
   "jest": {
     "testURL": "http://localhost/"
-  }
+  },
+  "dependencies": {}
 }
